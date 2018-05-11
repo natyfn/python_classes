@@ -7,6 +7,9 @@ Created on Fri May 11 18:44:34 2018
 """
 
 
-x = float(input("9"))
-y = float(input("9"))
+x = float(input("Digite o primeiro numero:"))
+y = float(input("Digite o segundo numero:"))
+print('A soma é:')
+print(x + y)
+exit();
     
