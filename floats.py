@@ -13,3 +13,14 @@ print('A soma é:')
 print(x + y)
 exit();
     
+if x%2 == 0 :
+    if x%3 == 0:
+        
+        
+        
+x = 5
+if x != 5:
+    print("I am here")
+else:
+    print("i am not here")
+
